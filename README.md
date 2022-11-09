@@ -1,6 +1,6 @@
 # Level 1 heading
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/s9109560%20%2F%20teals%2Fhttps%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fs9109560%20%2F%20teals%2FHEAD/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/s9109560/teals/HEAD)
 
 Level one text is for the Introduction to software technology class at
  / teals/HEAD
