@@ -1,6 +1,7 @@
 # Level 1 heading
 
-Level one textThsi is for the Introduction to software technology class at
+Level one text is for the Introduction to software technology class at
+https://mybinder.org/v2/gh/s9109560 / teals/HEAD
 
 ## level 2 heading
 
